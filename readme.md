@@ -18,7 +18,7 @@ npm install && npm start
 ## Usage
 
 ```
-visit http://localhost:3000 locally or find deployed app at https://hidden-bayou-79820.herokuapp.com/
+visit http://localhost:3000 locally or find deployed app at https://hidden-bayou-79820.herokuapp.com/A
 ```
 
 ## Contribute
