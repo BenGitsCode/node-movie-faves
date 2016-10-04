@@ -2,5 +2,5 @@
 <div class="list-group">
    <!-- role=button adds a cursor :) -->
    <a ng-href="#movie/{{movie.imdbID}}" class="list-group-item" role="button" ng-repeat="movie in movies">{{movie.Title}} ({{movie.Year}})</a>
-   <p ng-hide="movie.length">No results found</p>
+   <p ng-hide="movies.length">No results found</p>
 </div>
