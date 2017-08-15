@@ -20,8 +20,10 @@ npm install && npm start
 ```
 visit http://localhost:3000 locally or find deployed app at https://hidden-bayou-79820.herokuapp.com/
 ```
+*Currently broken and don't have time to fix* This was never complete, even when working, and is simply a challenge for a job interview
+that consisted of querying the OMDB API through an express back end.
 
-## Contribute
+I may fix this on a rainy day or when I have free time (😆 ) but feel free to peruse the code.
 
 
 
